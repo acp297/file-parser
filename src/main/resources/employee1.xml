@@ -1,0 +1,30 @@
+<Employees>
+  <employee>
+    <name>Mohan</name>
+    <age>25</age>
+    <designation>Developer</designation>
+    <address>
+      <doorNo>20</doorNo>
+      <street>Gandhi Road</street>
+      <town>Chennai</town>
+      <state>Tamil Nadu</state>
+    </address>
+  </employee>
+  <employee>
+    <name>Anitha</name>
+    <age>40</age>
+    <designation>Senior Developer</designation>
+    <address>
+      <doorNo>20</doorNo>
+      <street>Gandhi Road</street>
+      <town>Chennai</town>
+      <state>Tamil Nadu</state>
+    </address>
+  </employee>
+  <employee>
+    <name>Rajesh</name>
+    <age>35</age>
+    <designation>Carpenter</designation>
+    <address/>
+  </employee>
+</Employees>
