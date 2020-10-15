@@ -3,7 +3,7 @@ package com.demo.parser.job;
 import com.demo.parser.driver.AppContext;
 import com.demo.parser.enums.UpdateType;
 import com.demo.parser.interfaces.Job;
-import com.demo.parser.model.BaseModel;
+import com.demo.parser.interfaces.BaseModel;
 
 public class FileModifier implements Job {
     private Class<?> clazz;

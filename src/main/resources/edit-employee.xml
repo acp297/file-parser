@@ -1,12 +1,7 @@
 <employees>
     <employee>
-        <name>Mohan</name>
-        <age>255555</age>
-        <designation>Developerrrrr</designation>
-    </employee>
-    <employee>
-        <name>Rajesh</name>
-        <age>35666</age>
-        <designation>Carpenterrrrr</designation>
+        <name>sohan</name>
+        <age>100</age>
+        <designation>plumber</designation>
     </employee>
 </employees>

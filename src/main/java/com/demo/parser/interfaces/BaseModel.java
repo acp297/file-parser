@@ -1,4 +1,4 @@
-package com.demo.parser.model;
+package com.demo.parser.interfaces;
 
 public interface BaseModel {
     void appendObject(BaseModel object);

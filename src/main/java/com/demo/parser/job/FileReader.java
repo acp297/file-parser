@@ -6,7 +6,7 @@ import com.demo.parser.factory.WriterFactory;
 import com.demo.parser.interfaces.Job;
 import com.demo.parser.interfaces.Reader;
 import com.demo.parser.interfaces.Writer;
-import com.demo.parser.model.BaseModel;
+import com.demo.parser.interfaces.BaseModel;
 
 public class FileReader implements Job {
     private Class<?> clazz;

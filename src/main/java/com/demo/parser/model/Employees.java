@@ -1,5 +1,6 @@
 package com.demo.parser.model;
 
+import com.demo.parser.interfaces.BaseModel;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
 
 import java.util.*;

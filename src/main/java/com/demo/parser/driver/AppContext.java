@@ -3,7 +3,7 @@ package com.demo.parser.driver;
 import com.demo.parser.enums.JobType;
 import com.demo.parser.enums.FileType;
 import com.demo.parser.enums.UpdateType;
-import com.demo.parser.model.BaseModel;
+import com.demo.parser.interfaces.BaseModel;
 import org.apache.commons.cli.*;
 
 import java.util.Objects;
