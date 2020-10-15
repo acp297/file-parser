@@ -1,4 +1,4 @@
-#Steps to run.
+# Steps to run.
 
 1. Clone this repo : https://github.com/acp297/file-parser.git
 
